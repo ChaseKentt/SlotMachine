@@ -10,9 +10,9 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var credits = 1000
-    @State private var slot0 = "img3"
-    @State private var slot1 = "img3"
-    @State private var slot2 = "img3"
+    @State private var slot0 = "img2"
+    @State private var slot1 = "img2"
+    @State private var slot2 = "img2"
     
     var body: some View {
         ZStack{
